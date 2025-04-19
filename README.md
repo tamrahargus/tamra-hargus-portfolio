@@ -23,8 +23,8 @@ Welcome to my GitHub. After 20+ years designing chips at Intel and working acros
 
 | Repo | Description |
 |------|-------------|
-| [`ic-layout-notes`](./ic-layout-notes) | My running notes and interview prep on IC layout concepts, ESD, FinFET vs. RibbonFET, and more |
-| [`semiconductor-career-journal`](./semiconductor-career-journal) | Lessons from a 20+ year layout career—including the layoff, the pivot, and everything between |
+| [`ic-layout-notes`](https://github.com/tamrahargus/ic-layout-notes) | Notes and glossaries on analog, memory, SoC, and general layout practices. Includes [Analog Block Glossary](https://github.com/tamrahargus/ic-layout-notes/blob/main/analog_block_glossary.md) and [Interview Questions](https://github.com/tamrahargus/ic-layout-notes/blob/main/analog_layout_interview_questions.md) |
+| [`semiconductor-career-journal`](https://github.com/tamrahargus/semiconductor-career-journal) | Lessons from a 20+ year layout career—including the layoff, the pivot, and everything between |
 
 
 ---
