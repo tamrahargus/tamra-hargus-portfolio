@@ -25,7 +25,7 @@ Welcome to my GitHub. After 20+ years designing chips at Intel and working acros
 |------|-------------|
 | [`ic-layout-notes`](./ic-layout-notes) | My running notes and interview prep on IC layout concepts, ESD, FinFET vs. RibbonFET, and more |
 | [`semiconductor-career-journal`](./semiconductor-career-journal) | Lessons from a 20+ year layout career—including the layoff, the pivot, and everything between |
-| [`layout-mastery-guide`](./layout-mastery-guide) *(coming soon)* | A practical resource for analog/digital layout pros—tool tips, workflows, sanity savers from the trenches |
+
 
 ---
 
