@@ -2,6 +2,9 @@
 
 **In tech and semiconductors for decades. Still learning, still building. Always grounded in real-world results.**
 
+![image](https://github.com/user-attachments/assets/4a6b922b-b291-4df6-bcbe-ddeb32d7883d)
+
+
 Welcome to my GitHub. After 20+ years designing chips at Intel and working across SOC and analog layout, I’m using this space to share what I know, what I’m learning, and where I’m going next. Whether you’re here to look at my notes, connect over a project, or just curious about my journey—thanks for stopping by.
 
 ---
