@@ -32,13 +32,6 @@ Welcome to my GitHub. After 20+ years designing chips at Intel and working acros
 
 ## 📫 How to Reach Me
 
-- 📍 Cedar Park, Texas
-- 📧 tamrahargus@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/tamrahargus)
+- 💼 [LinkedIn](https://www.linkedin.com/in/
 
----
-
-## 🧩 Bonus Facts
-
-- Grew up in a semiconductor family—layout is literally in my DNA.
-- Also: Texan, gardener, and occasionally the tech support for three generations of family.
+  
