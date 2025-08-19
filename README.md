@@ -1,37 +1,34 @@
-# 👋 Hi, I'm Tamra Hargus
+# Tamra Hargus  
+**SoC Physical Design & IC Layout Engineer**
 
-**In tech and semiconductors for decades. Still learning, still building. Always grounded in real-world results.**
-
-📄 [Download My Layout Design Engineer Resume](./tamra_hargus_resume_2025.pdf)
-📄 [Download My Pyhyical Design Engineer Resume](./tamra_hargus_resume_PDE.pdf)
-
-
-Welcome to my GitHub. After 20+ years designing chips at Intel and working across SOC and analog layout, I’m using this space to share what I know, what I’m learning, and where I’m going next. Whether you’re here to look at my notes, connect over a project, or just curious about my journey—thanks for stopping by.
+Focused on advanced-node SoC physical design and custom IC layout. Experience spans Analog Hard IPs, custom and compiler-generated memory macros, and standard cell library development. Skilled in STA, P&R, DRC/LVS, and flow automation to deliver designs that meet performance, power, area, and reliability requirements.
 
 ---
 
-## 🧠 Background Highlights
+## Resume
+This repository provides access to my current professional resume.  
+- [SoC Physical Design Engineer Resume (PDF)](./resumes/Tamra_Hargus_PDE_Resume.pdf)  
 
-- 20+ years in **IC layout**, including SOC, analog hard IPs (PLLs, LDOs, ADC/DAC), and top-level integration
-- Deep experience with tools like **ICC2, Virtuoso, Calibre, Redhawk, Voltus,** and more
-- Designed on process nodes from **250nm down to Intel 18A**
-- Strong focus on **reliability, parasitics, and physical verification**
-- U.S. Navy veteran (Aviation Machinist's Mate / Loadmaster, Desert Storm)
+(Additional resume versions are archived privately. This repository always points to the most current one.)
 
 ---
 
-## 🔧 Featured Projects
-
-| Repo | Description |
-|------|-------------|
-| [`ic-layout-notes`](https://github.com/tamrahargus/ic-layout-notes) | Notes and glossaries on analog, memory, SoC, and general layout practices. Includes [Analog Block Glossary](https://github.com/tamrahargus/ic-layout-notes/blob/main/analog_block_glossary.md) and [Interview Questions](https://github.com/tamrahargus/ic-layout-notes/blob/main/analog_layout_interview_questions.md) |
-| [`semiconductor-career-journal`](https://github.com/tamrahargus/semiconductor-career-journal) | Lessons from a 20+ year layout career—including the layoff, the pivot, and everything between |
-
+## Career Highlights
+- Delivered advanced-node SoC partitions from concept through tapeout  
+- Designed and signed off multiple custom and compiler-generated memory macros  
+- Built and validated standard cell libraries across nodes and processes  
+- Strong emphasis on reproducible flows and sign-off readiness  
+- Skilled in automation (TCL, Python, shell) to streamline verification and layout tasks  
 
 ---
 
-## 📫 How to Reach Me
+## Related Repositories
+- [**writing-portfolio**](https://github.com/tamrahargus/writing-portfolio) — Technical articles and essays  
+- [**ic-layout-notes**](https://github.com/tamrahargus/ic-layout-notes) — Analog & memory layout study guides  
+- [**soc-physical-design-notes**](https://github.com/tamrahargus/soc-physical-design-notes) — SoC physical design workflows and checklists  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/
+---
 
-  
+## Contact
+- LinkedIn: [linkedin.com/in/tamrahargus](https://linkedin.com/in/tamrahargus)  
+- GitHub: [github.com/tamrahargus](https://github.com/tamrahargus)  
